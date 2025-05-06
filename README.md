@@ -18,6 +18,7 @@ I'm a dynamic, multidisciplinary professional with a background in **Criminal Ju
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
@@ -32,6 +33,10 @@ I'm a dynamic, multidisciplinary professional with a background in **Criminal Ju
 
 - 🔐 **Cybersecurity for Social Impact**  
   Research-based awareness tools promoting cyber hygiene and online safety in underserved communities.
+
+- 📊 **Community Data Insights Dashboard** *(coming soon)*  
+  A data analytics dashboard to visualise community health, safety, and education trends.  
+  _Tech: Python, Mysql, Pandas, Matplotlib_  
 
 - 🤖 **AI Agents & Autonomous Workflows** _(in progress)_  
   Exploring how social sciences + AI can improve education, governance, and mental health services.
